@@ -1,8 +1,8 @@
 <img src="https://www.ezequielglikman.com.ar/wp-content/uploads/2023/01/bolche-trabajando-web.jpg"
     alt="Una imagen de mi gato trabajando" />
 <h1 align="center">Hi 👋, I'm Ezequiel Glikman</h1>
-<h3 align="center">A frontend developer from Argentina (yes, I say "Dulce de leche" like Ann Taylor Joy).<br /> I am also a communicator and I do Web, Graphic and Audiovisual Design</h3>
-<h4>a.k.a. Polirubro multimedial. ♥ los GIF aunque ahora sean mainstream.  🎨💾📷⌨️🖥️</h4>
+<h3 align="center">A frontend developer from Argentina (yes, I say "Dulce de leche" like Ann Taylor Joy).<br /> I am also a communicator and I do Web, Graphic and Audiovisual Design (a.k.a. Polirubro multimedial) <br /> ♥GIFs 🎨💾📷⌨️🖥️</h3>
+
 
 - 🔭 I’m currently working on some freelance projects.
 
