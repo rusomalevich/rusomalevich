@@ -1,7 +1,6 @@
-### <h1>Hola!👋 Soy Ezequiel Glikman</h1>
-###    <p>Me dedico a la comunicación web, gráfica, audiovisual y redes. En este momento estoy profundizando en el desarrollo web</p>
-###    <p>Podés ver mis proyectos en https://ezequielglikman.com.ar</p> 
-###    
+ <h1>Hola!👋 Soy Ezequiel Glikman</h1>
+   <p>Me dedico a la comunicación web, gráfica, audiovisual y redes. En este momento estoy profundizando en el desarrollo web</p>
+   Podés ver mis proyectos en [ezequielglikman.com.ar](https://www.ezequielglikman.com.ar/)
 
 
 <!--
