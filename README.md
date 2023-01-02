@@ -1,6 +1,6 @@
 <img src="https://www.ezequielglikman.com.ar/wp-content/uploads/2023/01/bolche-trabajando-web.jpg"
     alt="Una imagen de mi gato trabajando" />
-<h1 align="center">Hi 👋, I'm Ezequiel Glikman</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Ezequiel Glikman</h1>
 <h3 align="center">A frontend developer from Argentina (yes, I say "Dulce de leche" like Ann Taylor Joy).<br /> I am also a communicator and I do Web, Graphic and Audiovisual Design (a.k.a. Polirubro multimedial) <br /> ♥GIFs 🎨💾📷⌨️🖥️</h3>
 
 
